@@ -1,0 +1,3 @@
+- This script is able to unarchive files based on their extension (.zip,bzip2,.tgz and etc)
+- It is a command which means it needs to be run from everywhere in the file system;
+- It works with arguments;
